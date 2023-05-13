@@ -206,12 +206,6 @@
 	  },
 	  "tokenColors": [
 		{
-			"scope": "punctuation.definition.curly-braces",
-			"settings": {
-			  "foreground": "#FF0000" // Replace with the color you prefer
-			}
-		  },
-		{
 		  "scope": [
 			"variable",
 			"string constant.other.placeholder",
