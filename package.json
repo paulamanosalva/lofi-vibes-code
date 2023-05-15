@@ -4,7 +4,7 @@
   "description": "just a cozy color theme",
   "version": "0.1.0",
   "publisher": "paumadi",
-  "icon": "./images/icon-cat.png",
+  "icon": "images/icon-cat.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/paulamanosalva/lofi-vibes-code"
