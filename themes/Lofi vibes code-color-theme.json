@@ -294,7 +294,8 @@
 		  "scope": [
 			"punctuation.definition.tag.begin.html",
 			"punctuation.definition.tag.end.html",
-			"entity.name.type.module.js"
+			"entity.name.type.module.js",
+			"entity.name.type.module.ts"
 		  ],
 		  "settings": {
 			"foreground": "#C97A38"
@@ -310,7 +311,14 @@
 			"punctuation.separator.comma.js",
 			"punctuation.definition.string.begin.js",
 			"punctuation.definition.string.end.js",
-			"punctuation.definition.binding-pattern.object.js"
+			"punctuation.definition.binding-pattern.object.js",
+			"keyword.operator.assignment.ts",
+			"punctuation.separator.comma.ts",
+			"punctuation.definition.string.begin.ts",
+			"punctuation.definition.string.end.ts",
+			"punctuation.definition.binding-pattern.object.ts",
+			"meta.type.annotation.ts",
+			"entity.name.type.ts"
 		  ],
 		  "settings": {
 			"foreground": "#7BDCBE"
@@ -337,8 +345,10 @@
 		  "scope": [
 			"comment.line.scss",
 			"comment.line.double-slash.js",
+			"comment.line.double-slash.ts",
 			"punctuation.definition.comment.scss",
 			"punctuation.definition.comment.js",
+			"punctuation.definition.comment.ts",
 			"punctuation.definition.comment.html",
 			"comment.block.html"
 		  ],
@@ -375,6 +385,7 @@
 		{
 		  "scope": [
 			"variable.parameter.js",
+			"variable.parameter.ts",
 			"variable.parameter.keyframe-list.css"
 		  ],
 		  "settings": {
@@ -385,9 +396,12 @@
 		  "scope": [
 			"variable.other.object.js",
 			"storage.type.js",
+			"variable.other.object.ts",
+			"storage.type.ts",
 			"string.other.link.title.markdown",
 			"variable.other.readwrite.js",
-			"variable.other.property.js"
+			"variable.other.property.js",
+			"variable.other.property.ts"
 		  ],
 		  "settings": {
 			"foreground": "#C97A38",
@@ -399,7 +413,9 @@
 			"string",
 			"string.quoted.double.html",
 			"variable.other.constant.js",
+			"variable.other.constant.ts",
 			"variable.other.object.property.js",
+			"variable.other.object.property.ts",
 			"string.quoted.double.json",
 			"markup.fenced_code.block.markdown",
 			"markup.inline.raw.string.markdown",
@@ -410,6 +426,7 @@
 			"markup.bold.markdown",
 			"markup.italic.markdown",
 			"meta.class-method.js entity.name.function.js",
+			"meta.class-method.ts entity.name.function.ts",
 			"variable.function.constructor",
 			"entity.name.tag.other.html",
 			"entity.name.tag.block.any.html",
@@ -471,7 +488,9 @@
 			"markup.inserted.git_gutter",
 			"meta.group.braces.curly",
 			"constant.other.object.key.js",
-			"string.unquoted.label.js"
+			"string.unquoted.label.js",
+			"constant.other.object.key.ts",
+			"string.unquoted.label.ts"
 		  ],
 		  "settings": {
 			"foreground": "#BB5348",
@@ -519,7 +538,10 @@
 		  "scope": [
 			"entity.name.module.js",
 			"variable.import.parameter.js",
-			"variable.other.class.js"
+			"variable.other.class.js",
+			"entity.name.module.ts",
+			"variable.import.parameter.ts",
+			"variable.other.class.ts"
 		  ],
 		  "settings": {
 			"foreground": "#6D9A73"
@@ -529,7 +551,10 @@
 		  "scope": [
 			"entity.name.method.js",
 			"tag.decorator.js entity.name.tag.js",
-			"tag.decorator.js punctuation.definition.tag.js"
+			"tag.decorator.js punctuation.definition.tag.js",
+			"entity.name.method.ts",
+			"tag.decorator.ts entity.name.tag.ts",
+			"tag.decorator.ts punctuation.definition.tag.ts"
 		  ],
 		  "settings": {
 			"foreground": "#C1AD8E",
@@ -552,10 +577,13 @@
 			"entity.other.attribute-name.pseudo-class",
 			"entity.name.tag.css",
 			"keyword.control.conditional.js",
+			"keyword.control.conditional.ts",
 			"support.constant",
 			"entity.other.attribute-name.html",
 			"string.quoted.single.js",
 			"storage.type.function.js",
+			"string.quoted.single.ts",
+			"storage.type.function.ts",
 			"meta.object-literal.key"
 		  ],
 		  "settings": {
@@ -622,7 +650,8 @@
 		},
 		{
 		  "scope": [
-			"source.js constant.other.object.key.js string.unquoted.label.js"
+			"source.js constant.other.object.key.js string.unquoted.label.js",
+			"source.ts constant.other.object.key.ts string.unquoted.label.ts"
 		  ],
 		  "settings": {
 			"foreground": "#7BDCBE",
