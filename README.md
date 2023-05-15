@@ -1,3 +1,7 @@
-# lofi-vibes-code README
+# lofi-vibes-code 
 
-WIP - feel free to enjoy/fork the theme but is still a WIP
+## Preview
+
+Hope you like it 👾
+
+![screenshot of the theme](images/Screenshot_1.png)
