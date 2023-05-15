@@ -400,6 +400,7 @@
 			"storage.type.ts",
 			"string.other.link.title.markdown",
 			"variable.other.readwrite.js",
+			"variable.other.readwrite.ts",
 			"variable.other.property.js",
 			"variable.other.property.ts"
 		  ],
@@ -414,6 +415,10 @@
 			"string.quoted.double.html",
 			"variable.other.constant.js",
 			"variable.other.constant.ts",
+			"variable.other.readwrite.ts",
+			"variable.other.readwrite.js",
+			"meta.import.ts",
+			"meta.imports.js",
 			"variable.other.object.property.js",
 			"variable.other.object.property.ts",
 			"string.quoted.double.json",
@@ -430,7 +435,10 @@
 			"variable.function.constructor",
 			"entity.name.tag.other.html",
 			"entity.name.tag.block.any.html",
-			"source.sass keyword.control"
+			"source.sass keyword.control",
+			"source.ts",
+			"meta.block.ts",
+			"variable.other.readwrite.alias.ts meta.import.ts source.ts"
 		  ],
 		  "settings": {
 			"foreground": "#C1AD8E"
