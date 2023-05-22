@@ -590,7 +590,6 @@
 				"keyword.control.conditional.js",
 				"keyword.control.conditional.ts",
 				"support.constant",
-				"entity.other.attribute-name.html",
 				"string.quoted.single.js",
 				"storage.type.function.js",
 				"string.quoted.single.ts",
