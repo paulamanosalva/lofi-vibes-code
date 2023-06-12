@@ -177,10 +177,10 @@
 		"tab.unfocusedInactiveBackground": "#8C552710",
 		"tab.unfocusedInactiveForeground": "#7BDCBE7f",
 		"terminal.ansiBlack": "#06110E",
-		"terminal.ansiBlue": "#418dcc",
+		"terminal.ansiBlue": "#41a0cc",
 		"terminal.ansiBrightBlack": "#8C552720",
-		"terminal.ansiBrightBlue": "#258bff",
-		"terminal.ansiBrightCyan": "#CEB998",
+		"terminal.ansiBrightBlue": "#00bae9",
+		"terminal.ansiBrightCyan": "#a7ffe3",
 		"terminal.ansiBrightGreen": "#65f3c6af",
 		"terminal.ansiBrightMagenta": "#e6847a",
 		"terminal.ansiBrightRed": "#EC695B",
@@ -457,7 +457,12 @@
 			"scope": [
 				"support.other.variable",
 				"string.other.link",
-				"markup.table"
+				"markup.table",
+				"support.class.component.js.jsx",
+				"entity.name.tag.js.jsx",
+				"meta.tag.js.jsx",
+				"meta.jsx.children.js.jsx",
+				"source.js.jsx"
 			],
 			"settings": {
 				"foreground": "#7BDCBE"
