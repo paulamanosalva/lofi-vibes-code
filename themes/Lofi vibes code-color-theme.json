@@ -318,7 +318,9 @@
 				"punctuation.definition.string.end.ts",
 				"punctuation.definition.binding-pattern.object.ts",
 				"meta.type.annotation.ts",
-				"entity.name.type.ts"
+				"meta.type.annotation.tsx",
+				"entity.name.type.ts",
+				"entity.name.type.tsx"
 			],
 			"settings": {
 				"foreground": "#7BDCBE"
@@ -401,6 +403,8 @@
 				"string.other.link.title.markdown",
 				"variable.other.readwrite.js",
 				"variable.other.readwrite.ts",
+				"variable.other.readwrite.jsx",
+				"variable.other.readwrite.tsx",
 				"variable.other.property.js",
 				"variable.other.property.ts"
 			],
@@ -459,6 +463,8 @@
 				"string.other.link",
 				"markup.table",
 				"support.class.component.js.jsx",
+				"support.class.component.tsx",
+				"support.class.component.ts.tsx",
 				"entity.name.tag.js.jsx",
 				"meta.tag.js.jsx",
 				"meta.jsx.children.js.jsx",
