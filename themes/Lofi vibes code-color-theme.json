@@ -348,10 +348,16 @@
 				"comment.line.scss",
 				"comment.line.double-slash.js",
 				"comment.line.double-slash.ts",
+				"comment.line.double-slash.jsx",
+				"comment.line.double-slash.tsx",
 				"punctuation.definition.comment.scss",
 				"punctuation.definition.comment.js",
 				"punctuation.definition.comment.ts",
 				"punctuation.definition.comment.html",
+				"comment.block.ts",
+				"comment.block.tsx",
+				"comment.block.jsx",
+				"comment.block.js",
 				"comment.block.html"
 			],
 			"settings": {
